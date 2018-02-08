@@ -1,6 +1,5 @@
 package com.GoslinDarragh.Kamin;
 
-
 import java.util.Date;
 import java.util.Scanner;
 /*****************************************************************
