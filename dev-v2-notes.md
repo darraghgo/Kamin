@@ -1,6 +1,5 @@
-## DEV-v2 To Do Notes
+##Dev v2 - TO DO notes
 
-A set of notes to do in this branch
+A set of notes for this branch
 
-Also a reminder of what branch your in
-
+Also a reminder of the branch your on. 
